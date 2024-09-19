@@ -26,7 +26,7 @@ This is a simple web application built using Streamlit that predicts home prices
 To run this app, you need to have the following installed:
 
 - Python 3.x
-https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+   https://www.python.org/downloads/
 - Pip (Python package installer)
 
 ## Installation
