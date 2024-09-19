@@ -26,13 +26,14 @@ This is a simple web application built using Streamlit that predicts home prices
 To run this app, you need to have the following installed:
 
 - Python 3.x
+https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
 - Pip (Python package installer)
 
 ## Installation
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/home-price-prediction-app.git
+   git clone https://github.com/manojrashinkar/home-price-prediction-app.git
    cd home-price-prediction-app
    ```
 
