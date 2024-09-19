@@ -59,10 +59,6 @@ Replace `app.py` with the name of your Python file if it's different.
 - Enter the area in square feet in the input box.
 - The predicted price will be displayed along with a scatter plot showing existing data points and the best-fit line.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the Streamlit team for providing an easy-to-use platform for building web apps with Python.
