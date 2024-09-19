@@ -1,4 +1,3 @@
-Here's a simple `README.md` file for your Home Price Prediction App:
 
 ```markdown
 # Home Price Prediction App
