@@ -1,4 +1,3 @@
-Here's a polished and professional version of your `README.md` for the **Home Price Prediction App**. I’ve corrected formatting issues, improved clarity, and added some markdown enhancements:
 
 ---
 
