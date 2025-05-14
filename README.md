@@ -90,7 +90,7 @@ area,price
 ## 📬 Contact
 
 Created by **Manoj Rashinkar**
-🔗 [LinkedIn](https://www.linkedin.com/in/manoj-rashinkar)
+🔗 [LinkedIn](https://www.linkedin.com/in/manoj-rashinkar-82a4841b0/)
 
 ---
 
