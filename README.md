@@ -66,7 +66,7 @@ bash
 Copy
 Edit
 streamlit run app.py
-📌 Dataset Format
+##📌 Dataset Format
 homeprices.csv should look like this:
 
 csv
@@ -77,6 +77,6 @@ area,price
 1500,300000
 1800,350000
 ...
-📬 Contact
+##📬 Contact
 Created by Manoj Rashinkar – LinkedIn
 
